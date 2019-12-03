@@ -9,6 +9,4 @@ public interface Mediator {
     void startAttack(Robot robot);
 
     void stopAttack(Robot robot);
-
-
 }

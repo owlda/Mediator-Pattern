@@ -1,7 +1,6 @@
 public interface ChatMediator {
 
     // interface créer les relations parmi les utilisateurs.
-    // Ce mediateur va etre utiliser pour contacter les differents utilisateurs.
 
     void ajouterUtilisateur(Utilisateur utilisateur);
 
