@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MediatorChatMessage.iml" filepath="$PROJECT_DIR$/MediatorChatMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorChatSysteme/MediatorChatSysteme.iml" filepath="$PROJECT_DIR$/MediatorChatSysteme/MediatorChatSysteme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorRobotBattle/MediatorRobotBattle.iml" filepath="$PROJECT_DIR$/MediatorRobotBattle/MediatorRobotBattle.iml" />
+    </modules>
+  </component>
+</project>
